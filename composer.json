@@ -1,0 +1,11 @@
+{
+    "require": {
+        "swoole/ide-helper": "^4.8"
+    },
+    "autoload": {
+        "classmap": [
+            "Grpc",
+            "GPBMetadata"
+        ]
+    }
+}
